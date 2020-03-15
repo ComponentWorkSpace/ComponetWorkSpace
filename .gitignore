@@ -12,3 +12,10 @@
 /gradlew.bat
 /gradle
 /.idea
+/settings.gradle
+Would skip repository BaseComponent/
+/SearchComponent
+/BaseComponent
+/.gitignore
+
+
