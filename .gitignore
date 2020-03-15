@@ -16,6 +16,6 @@
 Would skip repository BaseComponent/
 /SearchComponent
 /BaseComponent
-/.gitignore
+.gitignore
 
 
